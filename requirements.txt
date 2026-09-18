@@ -1,0 +1,4 @@
+requests
+dbt-core
+dbt-clickhouse
+python-dotenv
